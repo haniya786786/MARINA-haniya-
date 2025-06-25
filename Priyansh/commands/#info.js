@@ -30,7 +30,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥ཫ༄𒁍⃝𝐌𝐀𝐑⃟𝐈𝐍𝐀 ☜︎︎︎✰🎁
+🔥Bot Admin🔥ཫ༄BROKEN KING🎁
 
 🙈bot andmin owner facebook id link🙈👇🏻\n https://www.facebook.com\n
 
@@ -39,8 +39,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ཫ༄𒁍⃝𝐌𝐀𝐑⃟𝐈𝐍𝐀☜︎︎︎✰ 
-
+♥️Bot Owner♥️ ཫ༄BROKEN KING
 🥳UPTIME🥳
 
 🌪️Today is🌪️ ☞︎︎︎☜︎︎︎✰ ${juswa} 
@@ -52,7 +51,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧.🐼◉⚡⃝𝐌𝐀𝐑⃟𝐈𝐍𝐀🐥⚡◉🤩✦🌸
+🌸✦✧.🐼◉⚡⃝BROKEN🐥⚡◉🤩✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 
 
